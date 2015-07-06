@@ -34,7 +34,7 @@ extension UIColor {
     class func midnightBlueColor() -> UIColor { return UIColor.colorWithHex(0x2c3e50) }
     // yellow
     class func sunFlowerColor()    -> UIColor { return UIColor.colorWithHex(0xf1c40f) }
-    class func orangeColor()       -> UIColor { return UIColor.colorWithHex(0xf39c12) }
+    class func flatOrangeColor()   -> UIColor { return UIColor.colorWithHex(0xf39c12) }
     // orange
     class func carrotColor()       -> UIColor { return UIColor.colorWithHex(0xe67e22) }
     class func pumkinColor()       -> UIColor { return UIColor.colorWithHex(0xd35400) }
