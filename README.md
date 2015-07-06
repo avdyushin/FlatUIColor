@@ -23,7 +23,7 @@ You can you `colorWithHex()` method to create `UIColor` objects with hex color v
 * wetAsphaltColor()  
 * midnightBlueColor()
 * sunFlowerColor()   
-* orangeColor()      
+* flatOrangeColor()      
 * carrotColor()      
 * pumkinColor()      
 * alizarinColor()    
