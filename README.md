@@ -1,5 +1,7 @@
 # Flat UI Colors swift extension
 
+Project has been moved to [SwiftExtensions](https://github.com/avdyushin/SwiftExtensions)
+
 ###### Usage
 
 Add `flatuicolors.swift` into your project
