@@ -4,36 +4,32 @@ Project has been moved to [SwiftExtensions](https://github.com/avdyushin/SwiftEx
 
 ###### Usage
 
-Add `flatuicolors.swift` into your project
+Add `UIColor.swift` into your project
 
-Code sample: `UIColor.wisteriaColor()`
+Code sample: `UIColor.flatWisteriaColor`
 
-###### Bonus
+###### Full color list
 
-You can you `colorWithHex()` method to create `UIColor` objects with hex color values.
-
-###### Full methods list
-
-* turquoiseColor()   
-* greenSeaColor()    
-* emeraldColor()     
-* nephritisColor()   
-* peterRiverColor()  
-* belizeHoleColor()  
-* amethystColor()    
-* wisteriaColor()    
-* wetAsphaltColor()  
-* midnightBlueColor()
-* sunFlowerColor()   
-* flatOrangeColor()      
-* carrotColor()      
-* pumkinColor()      
-* alizarinColor()    
-* pomegranateColor() 
-* cloudsColor()      
-* silverColor()      
-* asbestosColor()    
-* concerteColor()    
+* flatTurquoiseColor 
+* flatGreenSeaColor 
+* flatEmeraldColor 
+* flatNephritisColor 
+* flatPeterRiverColor 
+* flatBelizeHoleColor 
+* flatAmethystColor 
+* flatWisteriaColor 
+* flatWetAsphaltColor 
+* flatMidnightBlueColor 
+* flatSunFlowerColor 
+* flatOrangeColor 
+* flatCarrotColor 
+* flatPumkinColor 
+* flatAlizarinColor 
+* flatPomegranateColor 
+* flatCloudsColor 
+* flatSilverColor 
+* flatAsbestosColor 
+* flatConcerteColor 
 
 ###### Flat UI Colors
 [http://flatuicolors.com/](http://flatuicolors.com/)
